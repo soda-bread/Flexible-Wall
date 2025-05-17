@@ -7,5 +7,6 @@
    Main code for flexible building space usage named as ''2. Flexible building space usage opt.ipynb''.
 
 Tips
+
 The path specified in the code may need to be updated to match your local environment.
 The usage of the pythermalcomfort library may have changed; please check the official documentation before use.
