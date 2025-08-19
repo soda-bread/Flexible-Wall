@@ -13,5 +13,5 @@
 **1. File paths**  
 - Some paths inside the notebooks may need to be updated depending on your local directory structure.  
 
-**2. Library compatibility**  
+**2. Library**  
 - The project relies on the [pythermalcomfort](https://pythermalcomfort.readthedocs.io/) library. Since APIs may change across versions, please refer to the official documentation if you encounter issues.  
