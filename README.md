@@ -4,7 +4,7 @@
 - A pre-trained AutoGluon-Tabular model is available for download: [Google Drive link](https://drive.google.com/drive/folders/1KXjiYUaeBUwdGpdn4ECwri-P5tG1W-wa?usp=sharing).  
 - Alternatively, the code [`1_ML_AutoGluon.ipynb`](1_ML_AutoGluon.ipynb) can be used to train the prediction model.  
 
-**2. Optimization**
+**2. Optimization （Main）**
 - The main optimization workflow for flexible building space usage is implemented in [`2_Flexible_wall.ipynb`](2_Flexible_wall.ipynb).  
 
 ---
