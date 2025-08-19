@@ -19,6 +19,6 @@
 ---
 
 ## Paper
-- Title: [A data-driven multi-objective optimisation framework for energy efficiency and thermal comfort in flexible building spaces](https://www.sciencedirect.com/science/article/pii/S0378778825008308)
+- Title: [A data-driven multi-objective optimisation framework for energy efficiency and thermal comfort in flexible building spaces](https://www.sciencedirect.com/science/article/pii/S0378778825008308).
 - Formulated a novel optimisation problem for flexible building spaces incorporating movable walls.
 - Proposed a data-driven optimisation framework for adaptive building space configurations.
