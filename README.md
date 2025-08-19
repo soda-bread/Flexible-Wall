@@ -20,4 +20,5 @@
 
 ## Paper
 - Title: [A data-driven multi-objective optimisation framework for energy efficiency and thermal comfort in flexible building spaces](https://www.sciencedirect.com/science/article/pii/S0378778825008308)
-- This paper proposes the first data-driven multi-objective optimisation framework that allows walls to be moved to the best places for optimal energy efficiency and thermal comfort. It leverages surrogate machine learning models for room-level energy prediction and Multi-objective Evolutionary Algorithms (MOEAs) enhanced with a wall-reordering mutation strategy to balance between energy usage and thermal feelings of occupants.
+- Formulated a novel optimisation problem for flexible building spaces incorporating movable walls.
+- Proposed a data-driven optimisation framework for adaptive building space configurations.
